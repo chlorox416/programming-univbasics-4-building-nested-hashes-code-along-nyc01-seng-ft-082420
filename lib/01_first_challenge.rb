@@ -53,4 +53,3 @@ def first_challenge
      }
    ]
  }
-}
